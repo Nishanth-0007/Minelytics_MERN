@@ -1,0 +1,17 @@
+# Python
+venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# ML models & binaries
+*.h5
+*.pkl
+
+# Data
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
